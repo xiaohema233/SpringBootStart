@@ -2,111 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b09623db-dd91-4cc6-bbdb-24af4dac81a9" name="Default Changelist" comment="SpringBoot1-3代码">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_integration_tools_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_apt_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_fml_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_markdown_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xdoc_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_archiver_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_site_plugin_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_exec_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_0_9_0_M2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_parboiled_parboiled_core_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_parboiled_parboiled_java_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pegdown_pegdown_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/highlight_spring4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/highlight_spring4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/AopConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/AopConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoAnnotationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoAnnotationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoMethodService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoMethodService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/LogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/DiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/DiConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/FunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/FunctionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/UseFunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/di/UseFunctionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/FunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/FunctionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/JavaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/JavaConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/UseFunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/javaconfig/UseFunctionService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/DemoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/ElConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/ElConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoEvent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/EventConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/EventConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/BeanWayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/BeanWayService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/JSR250WayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/JSR250WayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/PrePostConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/PrePostConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/profile/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/profile/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/scope/DemoSingletonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/scope/DemoSingletonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/scope/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/scope/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/annotation/DemoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/annotation/DemoService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/aware/AwareConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/aware/AwareConfig.java" afterDir="false" />
@@ -155,7 +68,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -165,7 +78,7 @@
       <recent name="D:\IdeaProjects\SpringBootStart\highlight_spring4\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch1.aop.Main" />
       <module name="highlight_spring4" />
@@ -180,11 +93,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch3.aware.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch2.profile.Main" />
       <module name="highlight_spring4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wisely.highlight_spring4.ch3.aware.*" />
+          <option name="PATTERN" value="com.wisely.highlight_spring4.ch2.profile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch3.annotation.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch2.prepost.Main" />
       <module name="highlight_spring4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wisely.highlight_spring4.ch3.annotation.*" />
+          <option name="PATTERN" value="com.wisely.highlight_spring4.ch2.prepost.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch1.di.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch2.event.Main" />
       <module name="highlight_spring4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wisely.highlight_spring4.ch1.di.*" />
+          <option name="PATTERN" value="com.wisely.highlight_spring4.ch2.event.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch1.javaconfig.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wisely.highlight_spring4.ch2.scope.Main" />
       <module name="highlight_spring4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wisely.highlight_spring4.ch1.javaconfig.*" />
+          <option name="PATTERN" value="com.wisely.highlight_spring4.ch2.scope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +181,7 @@
       <workItem from="1585734727514" duration="5000" />
       <workItem from="1586075383441" duration="162000" />
       <workItem from="1586095103394" duration="934000" />
-      <workItem from="1586096057891" duration="1330000" />
+      <workItem from="1586096057891" duration="4129000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot1-3代码">
       <created>1585582834154</created>
@@ -277,54 +190,81 @@
       <option name="project" value="LOCAL" />
       <updated>1585582834154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DI JavaConfig AOP 完善注释 修改编码格式">
+      <created>1586097563522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586097563522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="SpringBoot1-3代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot1-3代码" />
+    <MESSAGE value="DI JavaConfig AOP 完善注释 修改编码格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="DI JavaConfig AOP 完善注释 修改编码格式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Plugins" timestamp="1586096186980">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1586096186980" />
+    <state x="594" y="73" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1586097610963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="594" y="73" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586097610963" />
     <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586095532252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586095532252" />
-    <state x="244" y="12" key="CommitChangelistDialog2" timestamp="1585702812960">
+    <state x="244" y="12" key="CommitChangelistDialog2" timestamp="1586097557069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="244" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585702812960" />
+    <state x="244" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586097557069" />
     <state x="549" y="113" key="FileChooserDialogImpl" timestamp="1586095258646">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586095258646" />
-    <state width="671" height="195" key="GridCell.Tab.0.bottom" timestamp="1586097459563">
+    <state width="746" height="195" key="GridCell.Tab.0.bottom" timestamp="1586100200562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586097459563" />
-    <state width="671" height="195" key="GridCell.Tab.0.center" timestamp="1586097459563">
+    <state width="746" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586100200562" />
+    <state width="746" height="195" key="GridCell.Tab.0.center" timestamp="1586100200562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586097459563" />
-    <state width="671" height="195" key="GridCell.Tab.0.left" timestamp="1586097459562">
+    <state width="746" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586100200562" />
+    <state width="746" height="195" key="GridCell.Tab.0.left" timestamp="1586100200562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586097459562" />
-    <state width="671" height="195" key="GridCell.Tab.0.right" timestamp="1586097459563">
+    <state width="746" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586100200562" />
+    <state width="746" height="195" key="GridCell.Tab.0.right" timestamp="1586100200562">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586097459563" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1586095265849">
+    <state width="746" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586100200562" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1586097623771">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586095265849" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586097623771" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586097633522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586097633522" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586096058060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

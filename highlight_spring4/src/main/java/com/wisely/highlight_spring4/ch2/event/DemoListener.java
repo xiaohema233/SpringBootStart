@@ -1,3 +1,6 @@
+/**
+ * 2-äº‹ä»¶ç›‘å¬å™¨
+ */
 package com.wisely.highlight_spring4.ch2.event;
 
 import org.springframework.context.ApplicationListener;
@@ -5,12 +8,12 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class DemoListener implements ApplicationListener<DemoEvent> {
-
+	//2 ä½¿ç”¨ onApplicationEvent æ–¹æ³•å¯¹æ¶ˆæ¯è¿›è¡Œæ¥å—å¤„ç†
 	public void onApplicationEvent(DemoEvent event) {
 		
 		String msg = event.getMsg();
 		
-		System.out.println("ÎÒ(bean-demoListener)½ÓÊÜµ½ÁËbean-demoPublisher·¢²¼µÄÏûÏ¢:"
+		System.out.println("æˆ‘(bean-demoListener)æ¥å—åˆ°äº†bean-demoPublisherå‘å¸ƒçš„æ¶ˆæ¯:"
 				+ msg);
 
 	}

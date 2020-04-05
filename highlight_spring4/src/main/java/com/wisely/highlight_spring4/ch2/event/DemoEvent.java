@@ -1,3 +1,6 @@
+/**
+ * 1-自定义事件
+ */
 package com.wisely.highlight_spring4.ch2.event;
 
 import org.springframework.context.ApplicationEvent;

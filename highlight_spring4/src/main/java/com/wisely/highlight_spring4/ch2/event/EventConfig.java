@@ -1,3 +1,6 @@
+/**
+ * 4-配置类
+ */
 package com.wisely.highlight_spring4.ch2.event;
 
 import org.springframework.context.annotation.ComponentScan;

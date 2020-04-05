@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan("com.wisely.highlight_spring4.ch2.prepost")
 public class PrePostConfig {
 	
-	@Bean(initMethod="init",destroyMethod="destroy") //1
+	@Bean(initMethod="init",destroyMethod="destroy") //1 initMethod destroyMethod 指定类的init和destroy方法在构造之后、Bean销毁之前执行。
 	BeanWayService beanWayService(){
 		return new BeanWayService();
 	}

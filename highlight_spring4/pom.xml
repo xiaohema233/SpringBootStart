@@ -5,7 +5,7 @@
 	<artifactId>highlight_spring4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<java.version>1.7</java.version>
+		<java.version>1.8</java.version>
 		<spring-framework.version>4.1.5.RELEASE</spring-framework.version>
 	</properties>
 	<dependencies>
@@ -60,6 +60,14 @@
 			<artifactId>spring-test</artifactId>
 			<version>${spring-framework.version}</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-site-plugin -->
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-site-plugin</artifactId>
+			<version>3.3</version>
+		</dependency>
+
 	</dependencies>
 	<build>
 		<plugins>
@@ -74,4 +82,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
