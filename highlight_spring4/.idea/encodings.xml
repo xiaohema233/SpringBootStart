@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/DemoAnnotationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch1/aop/LogAspect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/el/DemoService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/event/DemoListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/BeanWayService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/prepost/JSR250WayService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch2/scope/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/annotation/DemoService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/aware/AwareService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/conditional/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/wisely/highlight_spring4/ch3/taskexecutor/AsyncTaskService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/test.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/test.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

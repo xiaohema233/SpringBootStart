@@ -1,3 +1,8 @@
+/**
+ * 1-pom.xml引入依赖
+ * 2-编写拦截规则的注解
+ * 注解本身没有功能，是一种元数据，即解释数据的数据，也就是所谓配置。
+ */
 package com.wisely.highlight_spring4.ch1.aop;
 
 import java.lang.annotation.Documented;

@@ -1,3 +1,6 @@
+/**
+ * 2-使用功能类的Bean
+ */
 package com.wisely.highlight_spring4.ch1.di;
 
 import org.springframework.beans.factory.annotation.Autowired;
