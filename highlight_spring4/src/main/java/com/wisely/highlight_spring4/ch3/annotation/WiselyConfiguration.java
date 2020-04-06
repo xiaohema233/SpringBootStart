@@ -12,10 +12,10 @@ import org.springframework.context.annotation.Configuration;
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
 @Documented
-@Configuration //1
-@ComponentScan //2
+@Configuration //1 组合 @Configuration 元注解
+@ComponentScan //2 组合 @ComponentScan 元注解
 public @interface WiselyConfiguration {
 	
-	String[] value() default {}; //3
+	String[] value() default {}; //3 覆盖 value 参数
 
 }

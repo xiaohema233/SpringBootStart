@@ -9,14 +9,14 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-@RunWith(SpringJUnit4ClassRunner.class) //1
-@ContextConfiguration(classes = {TestConfig.class}) //2
-@ActiveProfiles("prod") //3
+@RunWith(SpringJUnit4ClassRunner.class) //1 在Junit环境下提供 Spring TestContext Framework 的功能
+@ContextConfiguration(classes = {TestConfig.class}) //2 加载配置 ApplicationContext 其中 classes 属性用来加载配置类
+@ActiveProfiles("prod") //3 声明活动的Profile
 public class DemoBeanIntegrationTests {
-	@Autowired //4
+	@Autowired //4 注入Bean
 	private TestBean testBean;
 
-	@Test //5
+	@Test //5 测试代码
 	public void prodBeanShouldInject(){
 		String expected = "from production profile";
 		String actual = testBean.getContent();

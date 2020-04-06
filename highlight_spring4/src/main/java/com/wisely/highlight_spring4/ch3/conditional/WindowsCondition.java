@@ -1,3 +1,7 @@
+/**
+ * 1-判定条件定义
+ * 判定Windows的条件
+ */
 package com.wisely.highlight_spring4.ch3.conditional;
 
 import org.springframework.context.annotation.Condition;
